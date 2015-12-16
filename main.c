@@ -5,6 +5,8 @@
  * Created on 1 décembre 2015, 19:58
  */
 
+
+
 #include <stdio.h>
 #include <string.h>
 #include <ncurses.h>// il faut installé cette bibliotheque 
@@ -13,6 +15,8 @@
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
+
+
 
 
 typedef char String[30];
